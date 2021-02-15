@@ -10,3 +10,18 @@
 .active{
     background-color: blueviolet;
 }
+.lnav{
+    display: flex;
+}
+.lnav li{
+    list-style: none;
+    margin-left: 10px;
+}
+.image{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.image img{
+    width: 40px !important;;
+}
