@@ -1,0 +1,12 @@
+.inav{
+    display: flex;
+
+}
+.inav li{
+    list-style: none;
+    margin-left: 10px;
+  
+}
+.active{
+    background-color: blueviolet;
+}
